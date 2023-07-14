@@ -1,0 +1,19 @@
+ *******************************************************
+ *               OPTIMUM INTERPOLATION                  
+ *               ---------------------
+ *
+ * observation error =    1.00000000    
+ * background  error =    15.0000000    
+ * correlation lengh (km) =    750.000000    
+ * nb of obs around a model pt =           15
+ * choice of horizonal correlation model = ar2
+ *                                    
+ *******************************************************
+ first data selection after routine READ_OBS
+
+ number of observations retained       28055
+ number of observations rejected (bad location)           3
+
+ mean background field =    270.000000    
+ mean analysis field =    273.072052    
+ total cpu time in sec =   40.6726875    

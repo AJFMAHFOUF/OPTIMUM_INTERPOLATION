@@ -1,0 +1,15 @@
+ &grid
+   lon_0 = 0.0
+   lat_0 = -90.0
+   dlon = 1.5
+   dlat = 1.5
+   nx = 240
+   ny = 121
+ / 
+ &oi
+   sig_b = 15.0
+   sig_o = 1.0
+   l_scale = 2000.0
+   m = 10
+   corr_model = 'ar2'
+ /
